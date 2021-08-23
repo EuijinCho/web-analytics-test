@@ -1,5 +1,6 @@
 {
   "name": "web-analytics-test",
+  "homepage": "https://euijincho.github.io/web-analytics-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
